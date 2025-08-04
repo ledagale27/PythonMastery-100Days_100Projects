@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import random
 
+#Step 1: Creat a secret number
 secret_number = random.randint(1,10)
 attemps = 3
 player_won = False
