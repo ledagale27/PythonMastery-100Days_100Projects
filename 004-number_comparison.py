@@ -6,7 +6,7 @@
 number_1 = float(input("Enter the first number: "))
 number_2 = float(input("Enter the second number: "))
 
-#Step 2: Compare the numbers
+#Step 2: Compare the numbers given
 print("\n ---Comparison results---")
 
 if number_1 == number_2:
