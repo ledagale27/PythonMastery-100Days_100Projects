@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 #Greeting Program
 
-#Step 1: To ask for user details
+#Step 1: Ask for user details
 name = input("What's your name? ")
 age = int(input("How old are you? "))
 color = input("What's your favourite color? ")
 
-#Step 2: Generatea personalized greeting message
+#Step 2: Generate a personalized greeting message
 print("\n---Personalized Greeting---")
 print(f'Hello, {name}!')
 print(f'You are {age} years old and {color} is a beautiful color!')
