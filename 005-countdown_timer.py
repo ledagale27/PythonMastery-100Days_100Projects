@@ -7,7 +7,7 @@ import time
 #Step 1: Get user input for countdown start
 start = int(input("Enter the number to start the countdown from: "))
 
-#Step 2: Countdown using a while loop
+#Step 2: Countdown using a while loop (time.sleep method)
 print("\n--- Countdown Begins ---")
 while start > 0:
     print(start)

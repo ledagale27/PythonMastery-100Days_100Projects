@@ -50,4 +50,3 @@ def math_quiz():
 #Step 3: Run the game math_quiz() function
 math_quiz()
    
-    
