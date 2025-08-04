@@ -18,7 +18,7 @@ def generate_question():
 
     return f'{number_1} {operator} {number_2}', answer
 
-#Step 2: Define the main game function
+#Step 2: Define the main game function math_quiz()
 def math_quiz():
     score = 0
     rounds = 5
