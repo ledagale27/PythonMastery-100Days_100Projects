@@ -19,7 +19,7 @@
 #print(f'Multiplication: {number_1} x {number_2} = {multiplication}')
 #print(f'Division: {number_1} / {number_2} = {division}')
 
-#Calculator Option 2
+#Calculator Option 2 calculator() functionS
 
 def calculator():
     while True:
@@ -36,7 +36,7 @@ def calculator():
             print("Goodbye!")
             break
 
-        # Validate the choice
+        # Validate the choice given
         if choice not in ['1', '2', '3', '4']:
             print("Invalid option. Try again.")
             continue
