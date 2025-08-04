@@ -6,7 +6,7 @@
 name = input("What's your name?")
 hobby = input("What's your favourite hobby?")
 
-#Step 2: Generate a personalized welcome message
+#Step 2: Generate a personalized welcome message with the details given
 print("\n --- Welcome Message ---")
 print("Hello,{name} !".format(name =name))
 print(f"Welcome to the world of Python Programming.")
