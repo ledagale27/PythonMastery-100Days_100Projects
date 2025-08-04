@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 #Basic Math Quiz game
 
 import random
@@ -48,7 +47,7 @@ def math_quiz():
     else:
         print("Keep practicing! You can do better next time.!")
 
-#Step 3: Run the game
+#Step 3: Run the game math_quiz() function
 math_quiz()
    
     
