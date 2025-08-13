@@ -19,7 +19,7 @@ def kelvin_to_celsius(kelvin):
     return kelvin - 273.15
 
 def kelvin_to_farenheit(kelvin):
-    return (kelvin - 273.15) * 9/5 +32
+    return (kelvin - 273.15) * 9/5 + 32
 
 #Step 2: Display the menu
 
@@ -56,5 +56,5 @@ while True:
 
     else:
         print("Invalid choice. Please select a valid option.")
-    
-         
+
+
